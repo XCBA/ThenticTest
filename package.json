@@ -1,0 +1,22 @@
+{
+  "name": "thentictest",
+  "version": "1.0.0",
+  "description": "\"# ThenticTest\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XCBA/ThenticTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XCBA/ThenticTest/issues"
+  },
+  "homepage": "https://github.com/XCBA/ThenticTest#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
